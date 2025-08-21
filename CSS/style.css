@@ -1,4 +1,4 @@
-@import url('reset.css');
+@import url('resetx.css');
 
 body {
   background-color: black;
@@ -113,7 +113,7 @@ section {
   background-attachment: fixed;
   border-top: 1px solid #33A8DB80;
   border-bottom: 1px solid #33A8DB80;
-  padding: 200px;
+  padding: 50px;
 }
 
 #transform-world p {
